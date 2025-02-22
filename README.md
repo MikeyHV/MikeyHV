@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Michael Villordon. Master's student at University of Texas at Dallas, studying Intelligent Systems.
+
 
 <!--
 **MikeyHV/MikeyHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
